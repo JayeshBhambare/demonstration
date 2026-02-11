@@ -18,7 +18,6 @@ player_x = WIDTH // 2 - player_width // 2
 player_y = HEIGHT - 40
 player_speed = 7
 
-# Falling block settings
 block_size = 30
 block_x = random.randint(0, WIDTH - block_size)
 block_y = 0
